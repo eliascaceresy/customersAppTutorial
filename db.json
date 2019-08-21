@@ -1,0 +1,10 @@
+{
+  "customers": [
+    {
+      "name": "Juanito Perez Cotapos",
+      "dni": "123456",
+      "age": 12,
+      "id": 1
+    }
+  ]
+}
